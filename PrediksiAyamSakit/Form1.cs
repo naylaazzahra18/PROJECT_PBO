@@ -93,3 +93,4 @@ namespace PrediksiAyamSakit
         private void pictureBox1_Click(object sender, EventArgs e){}
     }
 }
+// Program Monitoring Kesehatan Ayam
